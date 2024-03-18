@@ -7,7 +7,7 @@ Vacation Guide
     - login page (maybe)
     - plan your trip 
 - Best Fit Vacation
-- COVID-19 Titanic Dataset 
+- COVID-19 Titanic Dataset --> dataset found on kaggle: COVID-19 Dataset: Global Data for Analysis
 - Activies/Leisure Nearby 
 - Weather 
 
